@@ -12,7 +12,7 @@
 - [UNIX Basics](./docs/unixbasics.md)
 - [Web Fundamentals](./docs/webfundamentals.md)
 - [Web Application](./docs/webapplication.md)
-
+繰り返す
 ### Certifications
 
 - [CompTIA ITF+](https://www.comptia.jp/certif/core/comptia_itf/)

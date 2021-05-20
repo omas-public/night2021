@@ -5,7 +5,7 @@ Install
 -------
 
 - [Ubuntu](https://www.ubuntulinux.jp/)
-    - [install](./docs/ubuntu.md)
+    - [install](./ubuntu.md)
 - [Google Chrome](https://www.google.co.jp/chrome/browser/desktop/index.html)
     - `sudo apt install ./google-chrome-stable_current_amd64.deb`
 - [Vagrant](https://www.vagrantup.com/)
