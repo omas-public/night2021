@@ -4,6 +4,8 @@
 
 この学科では，UNIX(Linux)を使用してWebおよびプログラミングの基礎を学習し，Reactを用いたWebアプリケーションを作成できるエンジニアを育成する。
 
+またCompTIA ITF+, SEA/J CSBM, AWS Cloud Practitioner を学習し 資格合格を目指す。
+
 ### Curriculum
 
 - [BootCamp](./docs/bootcamp.md)
@@ -28,4 +30,4 @@
 
 ### Keywords
 
-Linux, Security, AWS, Vagrant, WebApplication,Programming, React, nodeJS, JavaScript, HTML5, CSS,BootStrap, Emmet, Git, GitHub, VSCode,   
+Linux, Security, AWS, Vagrant, WebApplication, Programming, React, nodeJS, JavaScript, HTML5, CSS,BootStrap, Emmet, Git, GitHub, VSCode, markdown
