@@ -12,7 +12,7 @@
   - Self Study(progate, codeprep)
   - 仮想環境(Vagrant)
 
-## Referances
+## References
 
 - HTML & CSS, JavaScriptのきほんのきほん(Chapter 1)
 - [Progate](https://prog-8.com/)
