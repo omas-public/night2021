@@ -1,4 +1,4 @@
-# 第一回 WebFundamentals
+# 第1回 WebFundamentals
 
 ## 講義内容
 
