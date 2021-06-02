@@ -1,4 +1,4 @@
-# Programming Basics 1 (5/27)
+# Programming Basics 2 (5/27)
 
 ## Summary
 

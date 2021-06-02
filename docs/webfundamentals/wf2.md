@@ -4,7 +4,7 @@
 
 基本的なHTMLタグとコーディング環境を学習する
 
-- [html](https://prog-8.com/courses/html)
+- [Progate html](https://prog-8.com/courses/html) 11(htmlの全体構造まで)
 - 教科書Chap2を進める
   - GitHubにリポジトリ(HTML-CSS-BOOKS)を作りローカルにCloneする
   - 教科書P42までを行いPushする
@@ -15,9 +15,9 @@
 - 今回の復習
 - Chap2を終了させる
 
-
 ## References
 
-- HTML & CSS, JavaScriptのきほんのきほん(Chapter 1)
+- HTML & CSS, JavaScriptのきほんのきほん(Chapter 2)
 - [Progate](https://prog-8.com/)
 - [CodePrep](https://codeprep.jp/)
+- [Paiza html](https://paiza.jp/works/html/primer)
