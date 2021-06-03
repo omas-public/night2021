@@ -9,6 +9,13 @@ GASを用いてJavaScriptの基本構文を学習する。
 - 前回の残り(スタンドアロンスクリプトの作成と実行)
   - データ型(p78)
   - 算術演算子と優先順位(p99)
+- 制御構文
+  - 条件分岐
+  - 条件式
+  - switch文
+  - while文
+  - for forEach for-in for-of文
+  - map, Array.of
 
 ## Reference
 
