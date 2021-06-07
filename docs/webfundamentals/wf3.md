@@ -4,6 +4,7 @@
 
 - [html入門 基本要素](https://codeprep.jp/books/1/)
 - Chap2を進める
+- GithubPages確認
 
 ## 次回
 
