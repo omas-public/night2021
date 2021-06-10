@@ -19,6 +19,7 @@ GASを用いてJavaScriptの基本構文を学習する。
 
 - GoogleAppScript(4章 制御構文)
 - [プログラミング入門](https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/1)
+  - [入力テンプレート](https://github.com/omas-public/AOJ2)
 - Paiza コンテンツ
   - [JavaScript入門編1](https://paiza.jp/works/js/primer/beginner-js1)
   - [Paiza 恋するハッカソン](https://paiza.jp/poh/hatsukoi)
